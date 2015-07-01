@@ -1,0 +1,10 @@
+{
+  "name": "exisys",
+  "version": "0.0.0",
+  "description": "exisys",
+  "main": "server.js",
+  "author": {
+    "name": "rex",
+    "email": ""
+  }
+}
